@@ -1,5 +1,7 @@
 ## 📖 Directory Structure of Assets
 
+[Vietnamese Version](README.md)
+
 ```
 assets
 ├─ css

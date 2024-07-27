@@ -1,5 +1,7 @@
 ## 📖 Bố Cục Thư Mục Assets
 
+[English Version](README_en.md)
+
 ```
 assets
 ├─ css
