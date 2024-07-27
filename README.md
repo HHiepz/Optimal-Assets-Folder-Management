@@ -51,7 +51,7 @@ assets
 │ │ ├── jquery-3.6.0.min.js
 │ │ └── ...
 │ └── ...
-
+```
 ## Giải Thích Chi Tiết Bố Cục
 
 **assets** Chứa tất cả nội dung tĩnh cho dự án, bao gồm biểu định kiểu, tệp JavaScript, hình ảnh và phông chữ.
