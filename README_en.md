@@ -1,4 +1,4 @@
-## 📖 Bố Cục Thư Mục Assets
+## 📖 Directory Structure of Assets
 
 ```
 assets
@@ -59,32 +59,32 @@ assets
 │  └─ ...
 ```
 
-## 📋 Giải Thích Chi Tiết Bố Cục
+## 📋 Detailed Directory Explanation
 
-**assets**: Chứa tất cả nội dung tĩnh cho dự án, bao gồm biểu định kiểu, tệp JavaScript, hình ảnh và phông chữ.
+**assets**: Contains all static content for the project, including stylesheets, JavaScript files, images, and fonts.
 
-- **`css`**: Chứa toàn bộ file CSS.
-  - **`components`**: Tùy chỉnh riêng cho từng thành phần dùng chung trong dự án.
-  - **`custom`**: Tùy chỉnh lại thiết kế của thư viện và plugins.
-  - **`pages`**: Tùy chỉnh các kiểu thiết kế dùng riêng cho mỗi trang.
-  - **`varibles`**: Tùy chỉnh biến, ví dụ: `colorText`, `colorBorder`, `colorBackground`,..
+- **`css`**: Contains all CSS files.
+  - **`components`**: Custom styles for individual reusable components in the project..
+  - **`custom`**: Customizations of third-party libraries and plugins.
+  - **`pages`**: Custom styles specific to each page.
+  - **`varibles`**: CSS variables, e.g., `colorText`, `colorBorder`, `colorBackground`, etc
 
-- **`js`**: Chứa toàn bộ file JavaScript.
-  - **`components`**: Tùy chỉnh riêng cho từng thành phần dùng chung trong dự án.
-  - **`custom`**: Tùy chỉnh lại các thư viện và plugins.
-  - **`pages`**: Tùy chỉnh các script dùng riêng cho mỗi trang.
+- **`js`**: Contains all JavaScript files.
+  - **`components`**: Custom scripts for individual reusable components in the project.
+  - **`custom`**: Customizations of third-party libraries and plugins.
+  - **`pages`**: Custom scripts specific to each page.
 
-- **`vendors`**: Chứa toàn bộ thư viện bên thứ ba (frameworks).
-  - **`library-name`**: Mỗi thư viện/framework có một thư mục riêng, ví dụ: `bootstrap`, `datatables`, `jquery`.
+- **`vendors`**: Contains all third-party libraries (frameworks).
+  - **`library-name`**: Each library/framework has its own directory, e.g., `bootstrap`, `datatables`, `jquery`, etc.
 
-- **`fonts`**: Chứa toàn bộ file phông chữ.
+- **`fonts`**: Contains all font files.
 
-- **`images`**: Chứa toàn bộ hình ảnh.
-  - **`image-name`**: Mỗi phần có mỗi thư mục riêng, ví dụ: `icons`, `logo`, `backgrounds`, `products`,..
+- **`images`**: Contains all images.
+  - **`image-name`**: Each category has its own directory, e.g.,`icons`, `logo`, `backgrounds`, `products`, etc.
 
-### Sử Dụng
+### Usage
 
-Để sử dụng dự án, bao gồm các file CSS và JS cần thiết trong file HTML của bạn. Dưới đây là một ví dụ:
+To use the project, include the necessary CSS and JS files in your HTML file. Here is an example:
 
 ```html
 <!DOCTYPE html>
