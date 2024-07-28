@@ -1,6 +1,17 @@
+[English Version](./README_en.md)
+
+## Giới thiệu
+
+**Optimal-Assets-Folder-Management** được tạo ra để đề xuất một cấu trúc thư mục tối ưu cho việc quản lý các tệp tài nguyên (assets) trong các dự án web. Mục tiêu của dự án là giúp các nhà phát triển dễ dàng quản lý, bảo trì và mở rộng các tệp giao diện như CSS, JavaScript, hình ảnh và các thư viện bên thứ ba một cách hợp lý và hiệu quả.
+
+## Lý do tạo ra dự án
+
+Trong quá trình phát triển ứng dụng web, việc duy trì một cấu trúc thư mục rõ ràng và có tổ chức là rất quan trọng. Một cấu trúc thư mục hợp lý không chỉ giúp tăng hiệu suất làm việc mà còn giúp các thành viên trong nhóm dễ dàng hiểu và tiếp cận dự án. Tuy nhiên, không phải lúc nào các nhà phát triển cũng có thể tự mình xây dựng một cấu trúc tối ưu từ đầu.
+
+Dự án này được tạo ra để giải quyết vấn đề đó. Nó cung cấp một cấu trúc thư mục chuẩn mực, dễ dàng áp dụng vào các dự án web mới hoặc hiện tại. Với sự phân tách rõ ràng giữa các loại tài nguyên và sự linh hoạt trong việc mở rộng, tôi tin rằng dự án này sẽ giúp các nhà phát triển tiết kiệm thời gian và nỗ lực, đồng thời nâng cao chất lượng của các ứng dụng web mà họ xây dựng.
+
 ## 📖 Bố Cục Thư Mục Assets
 
-[English Version](README_en.md)
 
 ```
 assets
@@ -104,7 +115,7 @@ assets
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/custom/custom-bootstrap.css">
     <link rel="stylesheet" href="assets/css/custom/custom-datatables.css">
-    <!-- Custom CSS for profile page -->
+    <!-- Custom CSS for page -->
     <link rel="stylesheet" href="assets/css/pages/page-index.css">
     <link rel="stylesheet" href="assets/css/pages/page-profile.css">
 </head>
@@ -148,10 +159,14 @@ assets
     <!-- Custom JS -->
     <script src="assets/js/custom/custom-bootstrap.js"></script>
     <script src="assets/js/custom/custom-datatables.js"></script>
-    <!-- Custom JS for profile page -->
+    <!-- Custom JS for page -->
     <script src="assets/js/pages/page-index.js"></script>
     <script src="assets/js/pages/page-profile.js"></script>
 </body>
 
 </html>
 ```
+
+## Đóng Góp
+
+Nếu bạn muốn đóng góp vào dự án, hãy mở pull request hoặc tạo issue trên GitHub. Mọi ý kiến đóng góp đều rất đáng quý và sẽ giúp cải thiện dự án.
