@@ -1,6 +1,16 @@
-## 📖 Directory Structure of Assets
+[Vietnamese Version](./README.md)
 
-[Vietnamese Version](README.md)
+## Introduction
+
+**Optimal-Assets-Folder-Management** was created to propose an optimal folder structure for managing asset files in web projects. The goal of this project is to help developers easily manage, maintain, and scale interface files such as CSS, JavaScript, images, and third-party libraries in a logical and efficient manner.
+
+## Motivation For The Project
+
+In the process of web application development, maintaining a clear and organized folder structure is crucial. A reasonable folder structure not only improves work efficiency but also helps team members easily understand and approach the project. However, developers cannot always create an optimal structure from the start on their own.
+
+This project was created to address that issue. It provides a standardized folder structure that can be easily applied to new or existing web projects. With clear separation between different types of assets and flexibility for expansion, I believe this project will help developers save time and effort while improving the quality of the web applications they build.
+
+## 📖 Directory Structure of Assets
 
 ```
 assets
@@ -155,3 +165,7 @@ To use the project, include the necessary CSS and JS files in your HTML file. He
 
 </html>
 ```
+
+## Contributions
+
+If you would like to contribute to the project, please open a [pull request](https://github.com/HHiepz/Optimal-Assets-Folder-Management/pulls) or create an issue on GitHub. Any feedback is highly appreciated and will help improve the project.

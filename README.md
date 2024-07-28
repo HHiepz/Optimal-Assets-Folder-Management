@@ -12,7 +12,6 @@ Dự án này được tạo ra để giải quyết vấn đề đó. Nó cung 
 
 ## 📖 Bố Cục Thư Mục Assets
 
-
 ```
 assets
 ├─ css
