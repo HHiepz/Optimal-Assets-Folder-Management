@@ -1,10 +1,10 @@
 [English Version](./README_en.md)
 
-## Giới thiệu
+## Giới Thiệu
 
-**Optimal-Assets-Folder-Management** được tạo ra để đề xuất một cấu trúc thư mục tối ưu cho việc quản lý các tệp tài nguyên (assets) trong các dự án web. Mục tiêu của dự án là giúp các nhà phát triển dễ dàng quản lý, bảo trì và mở rộng các tệp giao diện như CSS, JavaScript, hình ảnh và các thư viện bên thứ ba một cách hợp lý và hiệu quả.
+**Optimal-Assets-Folder-Management** được tạo ra để đề xuất một cấu trúc thư mục **tối ưu việc quản lý các tệp tài nguyên (assets)** trong các dự án web. Mục tiêu của dự án là giúp các nhà phát triển dễ dàng quản lý, bảo trì và mở rộng các tệp giao diện như CSS, JavaScript, hình ảnh và các thư viện bên thứ ba một cách hợp lý và hiệu quả.
 
-## Lý do tạo ra dự án
+## Động Lực Tạo Ra Dự Án
 
 Trong quá trình phát triển ứng dụng web, việc duy trì một cấu trúc thư mục rõ ràng và có tổ chức là rất quan trọng. Một cấu trúc thư mục hợp lý không chỉ giúp tăng hiệu suất làm việc mà còn giúp các thành viên trong nhóm dễ dàng hiểu và tiếp cận dự án. Tuy nhiên, không phải lúc nào các nhà phát triển cũng có thể tự mình xây dựng một cấu trúc tối ưu từ đầu.
 
@@ -169,4 +169,4 @@ assets
 
 ## Đóng Góp
 
-Nếu bạn muốn đóng góp vào dự án, hãy mở pull request hoặc tạo issue trên GitHub. Mọi ý kiến đóng góp đều rất đáng quý và sẽ giúp cải thiện dự án.
+Nếu bạn muốn đóng góp vào dự án, hãy mở [pull request](https://github.com/HHiepz/Optimal-Assets-Folder-Management/pulls) hoặc tạo issue trên GitHub. Mọi ý kiến đóng góp đều rất đáng quý và sẽ giúp cải thiện dự án.
