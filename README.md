@@ -16,19 +16,12 @@ Dự án này được tạo ra để giải quyết vấn đề đó. Nó cung 
 assets
 ├─ css
 │  ├─ components
-│  │  ├─ table.css
-│  │  ├─ button.css
 │  │  └─ ...
 │  ├─ custom
-│  │  ├─ custom-datatables.css
-│  │  ├─ custom-bootstrap.css
 │  │  └─ ...
 │  ├─ pages
-│  │  ├─ page-index.css
-│  │  ├─ page-profile.css
 │  │  └─ ...
 │  ├─ variables
-│  │  ├─ colors.css
 │  │  └─ ...
 │
 ├─ fonts
@@ -36,37 +29,24 @@ assets
 │
 ├─ images
 │  ├─ logo
-│  │  └─ logo.png
 │  ├─ icons
-│  │  └─ icon.svg
 │  ├─ backgrounds
-│  │  └─ bg.jpg
 │  └─ ...
 │
 ├─ js
 │  ├─ components
-│  │  ├─ table.js
-│  │  ├─ button.js
 │  │  └─ ...
 │  ├─ custom
-│  │  ├─ custom-datatables.js
-│  │  ├─ custom-bootstrap.js
 │  │  └─ ...
 │  ├─ pages
-│  │  ├─ page-profile.js
 │  │  └─ ...
 │
 ├─ vendors
 │  ├─ bootstrap
-│  │  ├─ bootstrap-5.1.3.min.css
-│  │  ├─ bootstrap.bundle-5.1.3.js
 │  │  └─ ...
 │  ├─ datatables
-│  │  ├─ datatables.min.css
-│  │  ├─ datatables.min.js
 │  │  └─ ...
 │  ├─ jquery
-│  │  ├─ jquery.min-3.7.1.js
 │  │  └─ ...
 │  └─ ...
 ```
@@ -94,7 +74,7 @@ assets
 - **`images`**: Chứa toàn bộ hình ảnh.
   - **`image-name`**: Mỗi phần có mỗi thư mục riêng, ví dụ: `icons`, `logo`, `backgrounds`, `products`,..
 
-### Sử Dụng
+### DEMO
 
 Để sử dụng dự án, bao gồm các file CSS và JS cần thiết trong file HTML của bạn. Dưới đây là một ví dụ:
 

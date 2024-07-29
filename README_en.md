@@ -16,19 +16,12 @@ This project was created to address that issue. It provides a standardized folde
 assets
 ├─ css
 │  ├─ components
-│  │  ├─ table.css
-│  │  ├─ button.css
 │  │  └─ ...
 │  ├─ custom
-│  │  ├─ custom-datatables.css
-│  │  ├─ custom-bootstrap.css
 │  │  └─ ...
 │  ├─ pages
-│  │  ├─ page-index.css
-│  │  ├─ page-profile.css
 │  │  └─ ...
 │  ├─ variables
-│  │  ├─ colors.css
 │  │  └─ ...
 │
 ├─ fonts
@@ -36,37 +29,24 @@ assets
 │
 ├─ images
 │  ├─ logo
-│  │  └─ logo.png
 │  ├─ icons
-│  │  └─ icon.svg
 │  ├─ backgrounds
-│  │  └─ bg.jpg
 │  └─ ...
 │
 ├─ js
 │  ├─ components
-│  │  ├─ table.js
-│  │  ├─ button.js
 │  │  └─ ...
 │  ├─ custom
-│  │  ├─ custom-datatables.js
-│  │  ├─ custom-bootstrap.js
 │  │  └─ ...
 │  ├─ pages
-│  │  ├─ page-profile.js
 │  │  └─ ...
 │
 ├─ vendors
 │  ├─ bootstrap
-│  │  ├─ bootstrap-5.1.3.min.css
-│  │  ├─ bootstrap.bundle-5.1.3.js
 │  │  └─ ...
 │  ├─ datatables
-│  │  ├─ datatables.min.css
-│  │  ├─ datatables.min.js
 │  │  └─ ...
 │  ├─ jquery
-│  │  ├─ jquery.min-3.7.1.js
 │  │  └─ ...
 │  └─ ...
 ```
@@ -94,7 +74,7 @@ assets
 - **`images`**: Contains all images.
   - **`image-name`**: Each category has its own directory, e.g.,`icons`, `logo`, `backgrounds`, `products`, etc.
 
-### Usage
+### DEMO
 
 To use the project, include the necessary CSS and JS files in your HTML file. Here is an example:
 
