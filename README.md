@@ -31,7 +31,6 @@ mkdir -p assets/vendors/datatables
 mkdir -p assets/vendors/jquery
 ```
 
-
 ## 📖 Bố Cục Thư Mục Assets
 
 ```yaml
