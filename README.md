@@ -10,45 +10,54 @@ Trong quá trình phát triển ứng dụng web, việc duy trì một cấu tr
 
 Dự án này được tạo ra để giải quyết vấn đề đó. Nó cung cấp một cấu trúc thư mục chuẩn mực, dễ dàng áp dụng vào các dự án web mới hoặc hiện tại. Với sự phân tách rõ ràng giữa các loại tài nguyên và sự linh hoạt trong việc mở rộng, tôi tin rằng dự án này sẽ giúp các nhà phát triển tiết kiệm thời gian và nỗ lực, đồng thời nâng cao chất lượng của các ứng dụng web mà họ xây dựng.
 
+## Khởi Tạo
+
+Đối với bạn sử dụng VSCode, mở Terminal và chạy dòng lệnh sau sẽ tự render ra folder.
+
+```bash
+mkdir -p assets/css/components
+mkdir -p assets/css/custom
+mkdir -p assets/css/pages
+mkdir -p assets/css/variables
+mkdir -p assets/fonts
+mkdir -p assets/images/logo
+mkdir -p assets/images/icons
+mkdir -p assets/images/backgrounds
+mkdir -p assets/js/components
+mkdir -p assets/js/custom
+mkdir -p assets/js/pages
+mkdir -p assets/vendors/bootstrap
+mkdir -p assets/vendors/datatables
+mkdir -p assets/vendors/jquery
+```
+
+
 ## 📖 Bố Cục Thư Mục Assets
 
-```
+```yaml
 assets
 ├─ css
 │  ├─ components
-│  │  └─ ...
 │  ├─ custom
-│  │  └─ ...
 │  ├─ pages
-│  │  └─ ...
 │  ├─ variables
-│  │  └─ ...
 │
 ├─ fonts
-│  └─ ...
 │
 ├─ images
 │  ├─ logo
 │  ├─ icons
 │  ├─ backgrounds
-│  └─ ...
 │
 ├─ js
 │  ├─ components
-│  │  └─ ...
 │  ├─ custom
-│  │  └─ ...
 │  ├─ pages
-│  │  └─ ...
 │
 ├─ vendors
 │  ├─ bootstrap
-│  │  └─ ...
 │  ├─ datatables
-│  │  └─ ...
 │  ├─ jquery
-│  │  └─ ...
-│  └─ ...
 ```
 
 ## 📋 Giải Thích Chi Tiết Bố Cục
