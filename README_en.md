@@ -15,20 +15,7 @@ This project was created to address that issue. It provides a standardized folde
 For those using VSCode, open the Terminal and run the following commands to automatically render the folders.
 
 ```bash
-mkdir -p assets/css/components
-mkdir -p assets/css/custom
-mkdir -p assets/css/pages
-mkdir -p assets/css/variables
-mkdir -p assets/fonts
-mkdir -p assets/images/logo
-mkdir -p assets/images/icons
-mkdir -p assets/images/backgrounds
-mkdir -p assets/js/components
-mkdir -p assets/js/custom
-mkdir -p assets/js/pages
-mkdir -p assets/vendors/bootstrap
-mkdir -p assets/vendors/datatables
-mkdir -p assets/vendors/jquery
+mkdir -p assets/css/components assets/css/custom assets/css/pages assets/css/variables assets/fonts assets/images/logo assets/images/icons assets/images/backgrounds assets/js/components assets/js/custom assets/js/pages assets/vendors/bootstrap assets/vendors/datatables assets/vendors/jquery
 ```
 
 ## 📖 Directory Structure of Assets
