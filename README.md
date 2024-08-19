@@ -15,7 +15,7 @@ Dự án này được tạo ra để giải quyết vấn đề đó. Nó cung 
 Cài đặt.
 
 ```bash
-npm i oafm
+npm install oafm 
 ```
 
 ## 📖 Bố Cục Thư Mục Assets

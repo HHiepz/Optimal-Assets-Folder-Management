@@ -15,7 +15,7 @@ This project was created to address that issue. It provides a standardized folde
 Install.
 
 ```bash
-npm i oafm 
+npm install oafm 
 ```
 
 ## 📖 Directory Structure of Assets
