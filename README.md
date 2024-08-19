@@ -12,23 +12,10 @@ Dự án này được tạo ra để giải quyết vấn đề đó. Nó cung 
 
 ## Khởi Tạo
 
-Đối với bạn sử dụng VSCode, mở Terminal và chạy dòng lệnh sau sẽ tự render ra folder.
+Cài đặt.
 
 ```bash
-mkdir -p assets/css/components
-mkdir -p assets/css/custom
-mkdir -p assets/css/pages
-mkdir -p assets/css/variables
-mkdir -p assets/fonts
-mkdir -p assets/images/logo
-mkdir -p assets/images/icons
-mkdir -p assets/images/backgrounds
-mkdir -p assets/js/components
-mkdir -p assets/js/custom
-mkdir -p assets/js/pages
-mkdir -p assets/vendors/bootstrap
-mkdir -p assets/vendors/datatables
-mkdir -p assets/vendors/jquery
+npm i oafm
 ```
 
 ## 📖 Bố Cục Thư Mục Assets

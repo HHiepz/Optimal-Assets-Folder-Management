@@ -12,23 +12,10 @@ This project was created to address that issue. It provides a standardized folde
 
 ## Usage
 
-For those using VSCode, open the Terminal and run the following commands to automatically render the folders.
+Install.
 
 ```bash
-mkdir -p assets/css/components
-mkdir -p assets/css/custom
-mkdir -p assets/css/pages
-mkdir -p assets/css/variables
-mkdir -p assets/fonts
-mkdir -p assets/images/logo
-mkdir -p assets/images/icons
-mkdir -p assets/images/backgrounds
-mkdir -p assets/js/components
-mkdir -p assets/js/custom
-mkdir -p assets/js/pages
-mkdir -p assets/vendors/bootstrap
-mkdir -p assets/vendors/datatables
-mkdir -p assets/vendors/jquery
+npm i oafm 
 ```
 
 ## 📖 Directory Structure of Assets
