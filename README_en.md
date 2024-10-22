@@ -82,22 +82,25 @@ To use the project, include the necessary CSS and JS files in your HTML file. He
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <!-- Fonts -->
-    <link rel="stylesheet" href="assets/fonts/...">
+    <link rel="stylesheet" href="./assets/fonts/...">
     <!-- Vendor CSS -->
-    <link rel="stylesheet" href="assets/vendors/bootstrap/bootstrap.min-5.3.3.css">
-    <link rel="stylesheet" href="assets/vendors/datatable/dataTables.min.css">
+    <link rel="stylesheet" href="./assets/vendors/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/vendors/datatables/datatables.min.css">
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="assets/css/custom/custom-bootstrap.css">
-    <link rel="stylesheet" href="assets/css/custom/custom-datatables.css">
-    <!-- Custom CSS for profile page -->
-    <link rel="stylesheet" href="assets/css/pages/page-index.css">
-    <link rel="stylesheet" href="assets/css/pages/page-profile.css">
+    <link rel="stylesheet" href="./assets/css/custom/custom-bootstrap.css">
+    <link rel="stylesheet" href="./assets/css/custom/custom-database.css">
+    <!-- Components CSS -->
+    <link rel="stylesheet" href="./assets/css/components/cpn-button.css">
+    <link rel="stylesheet" href="./assets/css/components/cpn-table.css">
+    <!-- Custom CSS for page -->
+    <link rel="stylesheet" href="./assets/css/pages/page-index.css">
+    <link rel="stylesheet" href="./assets/css/pages/page-profile.css">
 </head>
 
 <body>
 
     <!-- Example button using custom Bootstrap styles -->
-    <button class="btn btn-custom">Custom Button</button>
+    <button class="btn btn-success">Custom Button</button>
 
     <!-- Example DataTable -->
     <div class="container">
@@ -127,15 +130,18 @@ To use the project, include the necessary CSS and JS files in your HTML file. He
     </div>
 
     <!-- Vendor JS -->
-    <script src="assets/vendors/jquery/jquery.min-3.7.1.js"></script>
-    <script src="assets/vendors/bootstrap/bootstrap.bundle-5.3.3.js"></script>
-    <script src="assets/vendors/datatable/dataTables.min.js"></script>
+    <script src="./assets/vendors/jquery/jquery.min.js"></script>
+    <script src="./assets/vendors/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="./assets/vendors/datatables/datatables.min.js"></script>
     <!-- Custom JS -->
-    <script src="assets/js/custom/custom-bootstrap.js"></script>
-    <script src="assets/js/custom/custom-datatables.js"></script>
-    <!-- Custom JS for profile page -->
-    <script src="assets/js/pages/page-index.js"></script>
-    <script src="assets/js/pages/page-profile.js"></script>
+    <script src="./assets/js/custom/custom-bootstrap.js"></script>
+    <script src="./assets/js/custom/custom-database.js"></script>
+    <!-- Components JS -->
+    <script src="./assets/js/components/cpn-button.js"></script>
+    <script src="./assets/js/components/cpn-table.js"></script>
+    <!-- Custom JS for page -->
+    <script src="./assets/js/pages/page-index.js"></script>
+    <script src="./assets/js/pages/page-profile.js"></script>
 </body>
 
 </html>
